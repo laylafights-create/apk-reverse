@@ -1,0 +1,4 @@
+output/
+*.zip
+*.log
+.DS_Store
